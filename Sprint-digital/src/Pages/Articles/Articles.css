@@ -1,0 +1,48 @@
+.article h2 {
+    color: rgb(152, 149, 149);
+    font-family: 'Soleil', sans-serif;
+}
+
+.article {
+    padding-top: 12vh;
+
+}
+
+
+.card p {
+    font-size: 1rem;
+    font-family: 'Soleil', sans-serif;
+    color: rgba(44, 39, 39, 0.646);
+}
+
+.card h3 {
+    color: rgba(120, 119, 119, 0.356);
+    font-family: 'Soleil', sans-serif;
+    font-size: large;
+    font-weight: 600;
+    letter-spacing: 2PX;
+
+}
+
+.card .rm {
+    color: black;
+    font-family: 'Soleil', sans-serif;
+    text-decoration: underline;
+    font-size: large;
+}
+
+.article h2 {
+    color: slategray;
+    font-family: 'Soleil', sans-serif;
+    font-weight: 700;
+}
+
+.article h1 {
+    color: black;
+    font-family: 'Soleil', sans-serif;
+
+}
+
+.article span h1 {
+    color: #2342b1;
+}
